@@ -1,0 +1,25 @@
+{
+  "places":{
+      "apiversion":0.1,
+      "placesList":[
+        {
+          "placeId":2,
+          "placeName":"Quebradala mascota",
+          "latitude":13.6921067,
+          "longitude":-89.2290888
+        },
+        {
+          "placeId":3,
+          "placeName":"Quebrada el Piro",
+          "latitude":13.6670731,
+          "longitude":-89.2774169
+        },
+        {
+          "placeId":4,
+          "placeName":"Comunidad Sitio Cenícero",
+          "latitude":13.9653253,
+          "longitude":-89.0348774
+        }
+    ]
+  }
+}

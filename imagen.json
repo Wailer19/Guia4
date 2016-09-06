@@ -1,0 +1,32 @@
+{
+  "places":[{
+    "id":2,
+    "placeName":"Quebrada la mascota",
+    "images":[
+      "http://images.et.eltiempo.digital/contenido/bogota/IMAGEN/IMAGEN-15271596-2.png",
+      "http://am-elsalv-cdn.agilecontents.com/resources/jpg/7/2/1434842587827.jpg"
+    ],
+    "peligrosidad": 2,
+    "municipio": "San Salvador"
+  },
+  {
+    "id":3,
+    "placeName":"Quebrada el Piro",
+    "images":[
+    "https://i.ytimg.com/vi/ptj08FLkV7s/hqdefault.jpg",
+    "http://www.antiguocuscatlan.gob.sv/uploads/922977_458184127595696_1989194433_n-295x295.jpg"
+    ],
+        "peligrosidad": 2,
+    "municipio": "La Libertad"
+  },
+  {
+    "id":4,
+    "placeName":"Comunidad Sitio Cenícero",
+    "images":[
+    "https://s-media-cache-ak0.pinimg.com/564x/38/4f/9d/384f9d765348b16dfd7ae1801baa75f7.jpg"
+    ],
+        "peligrosidad": 2,
+    "municipio": "Cuscatlan"
+  }
+]
+}
