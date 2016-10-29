@@ -1,0 +1,19 @@
+{
+  "places":{
+      "apiversion":0.1,
+      "placesList":[
+        {
+          "placeId":2,
+          "placeName":"Centro Comercial Galerias Escalon",
+          "latitude":13.7020341,
+          "longitude":-89.2320205
+        },
+        {
+          "placeId":3,
+          "placeName":"Las Cascadas ",
+          "latitude":13.6782046,
+          "longitude":-89.2533635
+        }
+    ]
+  }
+}
